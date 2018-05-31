@@ -12,7 +12,8 @@
 	    </encoder>  
 	    <append>true</append>  
 	    <prudent>false</prudent>  
-	</appender>  
+	</appender>
+	
 	<root>
 		<level value="ERROR" />
 		<appender-ref ref="STDOUT" />
